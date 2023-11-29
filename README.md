@@ -24,9 +24,9 @@ I'm someone who has enjoyed listening to music ever since I was really young. Mu
 
 2. From these most popular music genres, what is the general state of their mental health?
 
-3. What music genres are the least popular, and what are the general mental state of these people?
+3. What music genres are the least popular? 
 
-4. What music genres are in the middle area of popularity?
+4. From these least popular music genres, what is the general state of their mental health?
 
 5. What is generally the most popular music genre for each state of mental health from 0-10?
 
@@ -42,6 +42,4 @@ I'm someone who has enjoyed listening to music ever since I was really young. Mu
 
 11. What is the most common response for the state of someone's mental health?
 
-12. Does having certain mental health conditions, like OCD, affect what types of music you like to listen to?
-
-13. Does how much someone like to explore new genres of music correlated to what their mental health looks like?
+12. Does how much someone like to explore new genres of music correlated to what their mental health looks like?
