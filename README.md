@@ -1,5 +1,5 @@
 # final_project_hth
-This is my final project for Hack the Hood's Build program
+This is Enkhamgalan Enkhsaikhan's final project for Hack the Hood's Build program
 
 ## Instructions
 1. Find a dataset you want to analyze on Kaggle or another site (make sure the dataset is in one file, .csv format!)
