@@ -28,7 +28,7 @@ I'm someone who has enjoyed listening to music ever since I was really young. Mu
 
 4. From these least popular music genres, what is the general state of their mental health?
 
-5. What is generally the most popular music genre for each state of mental health from 0-10?
+5. What is generally the most common mental health condition for each genre of music?
 
 6. What streaming service is the most popular for listening to music?
 
