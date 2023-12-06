@@ -32,9 +32,9 @@ I'm someone who has enjoyed listening to music ever since I was really young. Mu
 
 6. What streaming service is the most popular for listening to music?
 
-7. Is there any correlation between streaming service and the general mental state of somebody?
+7. Is there any correlation between the general mental state of somebody and their most popular streaming service?
 
-8. What people are generally associated with saying that their mental health is improved by listening to music?
+8. What mental states are most improved by listening to music?
 
 9. What associations are there between being a composer and their state of mental health?
  
